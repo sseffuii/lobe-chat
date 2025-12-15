@@ -442,7 +442,7 @@ Regardless of which user management solution you choose, LobeChat can provide yo
 
 We deeply understand the importance of providing a seamless experience for users in today's multi-device environment.
 Therefore, we have adopted Progressive Web Application ([PWA](https://support.google.com/chrome/answer/9658361)) technology,
-a modern web technology that elevates web applications to an experience close to that of native apps.
+a modern web technology that elevates web applications to an experience close to that of native apps
 
 Through PWA, LobeChat can offer a highly optimized user experience on both desktop and mobile devices while maintaining high-performance characteristics.
 Visually and in terms of feel, we have also meticulously designed the interface to ensure it is indistinguishable from native apps,
